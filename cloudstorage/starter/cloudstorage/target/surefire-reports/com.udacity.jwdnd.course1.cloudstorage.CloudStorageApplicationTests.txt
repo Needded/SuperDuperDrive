@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.udacity.jwdnd.course1.cloudstorage.CloudStorageApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 50.11 s -- in com.udacity.jwdnd.course1.cloudstorage.CloudStorageApplicationTests

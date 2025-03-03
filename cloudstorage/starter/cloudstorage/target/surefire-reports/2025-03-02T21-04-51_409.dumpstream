@@ -1,0 +1,5 @@
+# Created at 2025-03-02T21:04:51.596
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Projectos Intellij\cloudstorage\starter\cloudstorage\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
